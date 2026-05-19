@@ -1,0 +1,4 @@
+/home/epitone/Documents/Sam/code/cpp/transform/build/CMakeFiles/transforms_lib.dir
+/home/epitone/Documents/Sam/code/cpp/transform/build/CMakeFiles/transform.dir
+/home/epitone/Documents/Sam/code/cpp/transform/build/CMakeFiles/edit_cache.dir
+/home/epitone/Documents/Sam/code/cpp/transform/build/CMakeFiles/rebuild_cache.dir

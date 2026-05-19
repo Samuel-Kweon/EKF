@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/epitone/cv/code/cpp/kalman_2D/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
